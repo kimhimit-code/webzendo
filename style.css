@@ -74,8 +74,62 @@ ul li a:hover {
     background-color: rgb(6, 143, 82);
     background-position: center;
     background-size: cover;
-    background-image: url('image/banner.jpg');
+    /* background-image: url('image/banner.jpg'); */
 }
+
+
+
+
+.pagedetail{
+    width: 75%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(6, 143, 82);
+    background-position: center;
+    background-size: cover;
+    /* background-image: url('image/banner.jpg'); */
+}
+
+.img-item{
+    width: 15%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(192, 151, 16);
+    float: left;
+
+}
+
+.img-item-box{
+    width: 30%;
+    height: 30%;
+    margin: 0 auto;
+    background-color: rgb(230, 226, 213);
+    float: left;
+
+}
+
+
+
+
+.img-display{
+    width: 45%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(129, 92, 199);
+    float: left;
+
+}
+
+.order-box{
+    width: 35%;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(66, 202, 72);
+    float: left;
+
+}
+
+
 
 .button-homepage{
     width: 300px;
