@@ -145,6 +145,83 @@ ul li a:hover {
 }
 
 
+.price-box{
+    width: 95%;
+    height: 15%;
+    margin: 2%;
+    /* background-color: rgb(67, 32, 194); */
+    float: left;
+
+}
+
+.color-box{
+    width: 95%;
+    height: 35%;
+    margin: 2%;
+    background-color: rgb(67, 32, 194);
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow:scroll;
+
+}
+
+.color-box .img-color{
+
+     width: 25%;
+    height: 70%;
+    background-color: bisque;
+   
+
+
+}
+
+.img-color img{
+
+width: 100%;
+height: 100%;
+}
+
+
+
+
+
+
+
+.size-box{
+    width: 95%;
+    height: 15%;
+    margin: 2%;
+    background-color: rgb(67, 32, 194);
+    float: left;
+
+}
+.qty-box{
+    width: 95%;
+    height: 15%;
+    margin: 2%;
+    background-color: rgb(67, 32, 194);
+    float: left;
+
+}
+
+.addbag-box{
+    width: 95%;
+    height: 10%;
+    margin: 2%;
+    background-color: rgb(67, 32, 194);
+    float: left;
+}
+.delivery-box{
+    width: 95%;
+    height: 10%;
+    margin: 2%;
+    background-color: rgb(67, 32, 194);
+    float: left;
+
+}
+
 
 .button-homepage{
     width: 300px;
